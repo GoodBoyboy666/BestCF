@@ -1,0 +1,4 @@
+aliyun_python_sdk_alidns==3.0.7
+aliyun_python_sdk_core==2.15.1
+pandas==2.0.3
+schedule==1.2.1
